@@ -62,7 +62,7 @@ function Pesquisa() {
                 <Resultado>
                     <p>{livro.nome}</p>
                     <img src={livro.src} alt='livros'/>
-                </Resultado>
+                </Resultado >
             ) ) }
         </PesquisaContainer>
     )

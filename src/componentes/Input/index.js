@@ -15,6 +15,6 @@ const Input = styled.input`
             color: #FFF;
             font-size: 16px;
     }
-`
+` 
 
 export default Input

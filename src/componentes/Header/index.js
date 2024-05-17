@@ -16,7 +16,7 @@ function Header() {
             <Logo/>
             <OpcoesHeader/>
             <IconesHeader/>
-        </HeaderContainer>
+        </HeaderContainer >
     )
 }
 

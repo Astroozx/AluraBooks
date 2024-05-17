@@ -39,7 +39,7 @@ function UltimosLancamentos() {
                 descricao="Construindo uma aplicação com a plataforma Google"
                 img={ imagemLivro }
             />
-        </UltimosLancamentosContainer>
+        </UltimosLancamentosContainer >
     )
 }
 
